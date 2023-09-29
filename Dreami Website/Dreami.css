@@ -6,3 +6,7 @@ body {
     color: #FFC300;   
     font-family: Didot;
 }
+
+#S1 {
+    animation-fill-mode: forwards;
+}
